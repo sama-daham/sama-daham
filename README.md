@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Applied Mathematics and Financial Engineering at Washington University in St. Louis
-- Artificial Intelligence / Machine Learning Fellow at Break Through Tech
+- 🤖 Artificial Intelligence / Machine Learning Fellow at Break Through Tech
 - 💻 Interests: Machine learning, quantitative finance, statistical modeling
 - 🌱 Currently learning: ML Foundations (eCornell), Options pricing & derivatives (Hull), probability theory (Blitzstein & Hwang Stat 110)
 ---
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 ---
 ### 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/sama-daham
+- **LinkedIn:** www.linkedin.com/in/sama-daham/
 - **Email:** daham@wustl.edu 
 
