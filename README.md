@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 ---
 ### 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**NHL Win Probability Model**](https://github.com/sama-daham/nhl-predictor) | Built a real-time Bayesian win probability predictor using Poisson processes and live NHL Stats API data | Python, NHL Stats API |
-| [**DSA in Python**](https://github.com/sama-daham/dsa-python) | Implementations of core data structures and algorithms in Python | Python |
+| Project                                                                                          | Description                                                                                                  | Tech                          |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [**NHL Win Probability Model**](https://github.com/sama-daham/nhl-predictor)                        | Built a real-time Bayesian win probability predictor using Poisson processes and live NHL Stats API data       | Python, NHL Stats API          |
+| [**Census Income Classification**](https://github.com/sama-daham/census-income-classification)      | End-to-end binary classification pipeline on U.S. Census data; tuned logistic regression (85% acc, 0.65 F1) benchmarked against a neural network | Python, scikit-learn, Keras    |
+| [**DSA in Python**](https://github.com/sama-daham/dsa-python)                                       | Implementations of core data structures and algorithms in Python                                                | Python                         |
 
 ---
 ### 📫 Connect with Me
