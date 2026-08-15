@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 Applied Mathematics and Financial Engineering at Washington University in St. Louis
-- 🤖 Artificial Intelligence / Machine Learning Fellow at Break Through Tech
-- 💻 Interests: Machine learning, quantitative finance, statistical modeling
-- 🌱 Currently learning: ML Foundations (eCornell), Options pricing & derivatives (Hull), probability theory (Blitzstein & Hwang Stat 110)
+- Applied Mathematics and Financial Engineering at Washington University in St. Louis
+- Artificial Intelligence / Machine Learning Fellow at Break Through Tech
+- Interests: Machine learning, quantitative finance, statistical modeling
+- Currently learning: ML Foundations (eCornell), Options pricing & derivatives (Hull), probability theory (Blitzstein & Hwang Stat 110)
 ---
 ### Technical Skills
 - **Languages:** Python, Java
