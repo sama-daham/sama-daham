@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ### Technical Skills
 - **Languages:** Python, Java
 - **Libraries & Tools:** NumPy, pandas, scikit-learn, Matplotlib
-- **Methods:** Bayesian inference, Poisson processes, supervised & unsupervised learning, KNN, decision trees
+- **Methods:** Bayesian inference, Poisson processes, supervised & unsupervised learning (KNN, decision trees, logistic regression, random forests, gradient boosting), model calibration
+- **AI/LLM Systems:** Neural networks, RAG pipelines, agentic AI systems
 - **Other:** Git/GitHub, Jupyter Notebooks
 
 ---
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 
 | Project                                                                                          | Description                                                                                                  | Tech                          |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+[**Second Look Lending**](https://github.com/Break-Through-Tech/American-Express-1C-second-look-lending) | Developing an ML pipeline to identify credit-card approval eligibility for thin-file applicants misclassified as high-risk by standard models, evaluated via ROC-AUC and LogLoss | Python, scikit-learn, Logistic Regression
 | [**NHL Win Probability Model**](https://github.com/sama-daham/nhl-predictor)                        | Built a real-time Bayesian win probability predictor using Poisson processes and live NHL Stats API data       | Python, NHL Stats API          |
 | [**Census Income Classification**](https://github.com/sama-daham/census-income-classification)      | End-to-end binary classification pipeline on U.S. Census data; tuned logistic regression (85% acc, 0.65 F1) benchmarked against a neural network | Python, scikit-learn, Keras    |
 | [**DSA in Python**](https://github.com/sama-daham/dsa-python)                                       | Implementations of core data structures and algorithms in Python                                                | Python                         |
