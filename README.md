@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Other:** Git/GitHub, Jupyter Notebooks
 
 ---
-### 📂 Featured Projects
+### Featured Projects
 
 | Project                                                                                          | Description                                                                                                  | Tech                          |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------ |
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 | [**DSA in Python**](https://github.com/sama-daham/dsa-python)                                       | Implementations of core data structures and algorithms in Python                                                | Python                         |
 
 ---
-### 📫 Connect with Me
+### Connect with Me
 - **LinkedIn:** www.linkedin.com/in/sama-daham/
 - **Email:** daham@wustl.edu 
 
